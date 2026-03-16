@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+Meu nome é Sarah Pajor, venho iniciando a um tempo na jornada de desenvolvimento de softwares e tecnologia da informação. Tenho uma breve experiência com programação em Python e pretendo aprender muito mmais ainda.
 <!--
 **sarahpajor/sarahpajor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
