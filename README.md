@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá! 👋
 
 Meu nome é Sarah Pajor, venho iniciando a um tempo na jornada de desenvolvimento de softwares e tecnologia da informação. Tenho uma breve experiência com programação em Python e pretendo aprender muito mais ainda.
 
